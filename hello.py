@@ -1,1 +1,1 @@
-print("hello world)
+fafa = 12345
